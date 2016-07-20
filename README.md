@@ -10,3 +10,6 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 
 ###Problem Set 2
 1. [make_a_combination_lock.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_2/make_a_combination_lock.py)
+
+###Lesson 3
+1. [checking_pairwise_connectivity.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_3/checking_pairwise_connectivity.py)
