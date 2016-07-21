@@ -13,3 +13,6 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 
 ###Lesson 3
 1. [checking_pairwise_connectivity.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_3/checking_pairwise_connectivity.py)
+
+###Problem Set 3
+1. [mark_component.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_3/mark_component.py)
