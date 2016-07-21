@@ -17,3 +17,6 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 ###Problem Set 3
 1. [mark_component.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_3/mark_component.py)
 2. [centrality.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_3/centrality.py)
+
+###Lesson 4
+1. [remove_min.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_4/remove_min.py)
