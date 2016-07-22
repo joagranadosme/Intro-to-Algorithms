@@ -23,3 +23,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 
 ###Problem Set 4
 1. [minimize_sum_of_absolute_value.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/minimize_sum_of_absolute_value.py)
+2. [minimize_sum_of_squares.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/minimize_sum_of_squares.py)
