@@ -27,3 +27,6 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 3. [mode.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/mode.py)
 4. [up_heapify.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/up_heapify.py)
 5. [actor_centrality.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/actor_centrality.py) [imdb-1.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/imdb-1.tsv)
+
+###Lesson 5
+1. [strength_of_connections.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/strength_of_connections.py) [Marvel-Graph.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/Marvel-Graph.tsv)
