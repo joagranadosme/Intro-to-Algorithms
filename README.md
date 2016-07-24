@@ -30,3 +30,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 
 ###Lesson 5
 1. [strength_of_connections.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/strength_of_connections.py) [Marvel-Graph.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/Marvel-Graph.tsv)
+2. [randomizing_clustering_coefficient.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/randomizing_clustering_coefficient.py)
