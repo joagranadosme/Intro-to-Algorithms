@@ -29,5 +29,5 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 5. [actor_centrality.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/actor_centrality.py) [imdb-1.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_4/imdb-1.tsv)
 
 ###Lesson 5
-1. [strength_of_connections.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/strength_of_connections.py) [Marvel-Graph.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/Marvel-Graph.tsv)
+1. [strength_of_connections.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/strength_of_connections.py) [marvel-graph.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/marvel-graph.tsv)
 2. [randomizing_clustering_coefficient.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_5/randomizing_clustering_coefficient.py)
