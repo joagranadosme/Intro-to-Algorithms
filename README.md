@@ -34,3 +34,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 
 ###Problem Set 5
 1. [implementing_dijkstra_with_heaps.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_5/implementing_dijkstra_with_heaps.py)
+2. [least_obscure_path.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_5/least_obscure_path.py) [imdb-1.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_5/imdb-1.tsv) [imdb-weights.tsv](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_5/imdb-weights.tsv)
