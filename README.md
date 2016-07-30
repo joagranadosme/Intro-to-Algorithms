@@ -39,3 +39,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 ###Lesson 6
 1. [tetristan.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_6/tetristan.py)
 2. [reduction_long_and_simple_path.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_6/reduction_long_and_simple_path.py)
+3. [solving_3_colorability.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/lesson_6/solving_3_colorability.py)
