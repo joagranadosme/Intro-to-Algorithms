@@ -45,3 +45,6 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 1. [programming_in_reduction.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_6/programming_in_reduction.py)
 2. [reduction_k_clique_decision.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_6/reduction_k_clique_decision.py)
 3. [polynomial_vs_exponential.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/problem_set_6/polynomial_vs_exponential.py)
+
+###Final Assessment
+1. [bipartite.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/bipartite.py)
