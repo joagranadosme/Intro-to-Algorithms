@@ -49,3 +49,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 ###Final Assessment
 1. [bipartite.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/bipartite.py)
 2. [feel_the_love.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/feel_the_love.py)
+3. [weighted_graph.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/weighted_graph.py) [smallG.pkl](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/smallG.pkl) [smallChr.pkl](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/smallChr.pkl)
