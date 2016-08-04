@@ -53,3 +53,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 4. [finding_the_best_flight.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/finding_the_best_flight.py) (not accepted by grader)
 5. [constantly_connected.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/constantly_connected.py)
 6. [distance_oracle_1.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/distance_oracle_1)
+7. [distance_oracle_2.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/distance_oracle_2)
