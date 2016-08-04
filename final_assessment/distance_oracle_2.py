@@ -25,10 +25,6 @@
 # a label is a dictionary mapping another node and the distance to
 # that node
 #
-import random
-import math
-import pdb
-import random
 
 def count_nodes(treeG, node):
 	# count all sub-nodes including itself
@@ -83,7 +79,6 @@ def create_labels(treeG):
 					if neighbor not in labels:
 						labels[neighbor] = {neighbor: 0}
 					labels[neighbor][sub_cen] = treeG[v][neighbor] + labels[v][sub_cen]
-	#pdb.set_trace()
 	cens_nodes = {}
 	labels = {}
 	tmt_root = iter(treeG).next()
@@ -91,13 +86,9 @@ def create_labels(treeG):
 	label_tree(tmt_root)
 	return labels
 
-
-
-
 #######
 # Testing
 #
-
 
 def get_distances(G, labels):
 	# labels = {a:{b: distance from a to b,
