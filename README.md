@@ -54,3 +54,4 @@ Udacity CS215: [Intro to Algorithms](https://www.udacity.com/course/intro-to-alg
 5. [constantly_connected.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/constantly_connected.py)
 6. [distance_oracle_1.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/distance_oracle_1.py)
 7. [distance_oracle_2.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/distance_oracle_2.py)
+8. [finding_a_favor.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/finding_a_favor.py) [heap.py](https://github.com/RahnX/Intro-to-Algorithms/blob/master/final_assessment/heap.py)
